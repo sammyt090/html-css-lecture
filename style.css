@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+h1{
+  font-size: 32px;
+  margin: 10px;
+}
+
+h2 {
+  color: rebeccapurple;
+}
+
+.third-heading{
+  font-size: 24px;
+  color: saddlebrown;
+}
+.third-heading:hover{
+  color: red;
+}
+#sanic-image{
+  height: 100px;
+  float: left;
+
+}
+.outer-box{
+  padding: 10px;
+  height: 250px;
+  width: 250px;
+  background-color: seagreen;
+}
+
+.inner-box{
+  height: 50%;
+  width: 50%;
+  background-color: seashell;
+
+}
+
+div{
+  background-color: black;
+}
+
+li{
+  height: 5vh;
+}
+h1,
+h2,
+h3{
+  margin: 10px;
+}
+
+.lorem-text {
+  width: 75vw;
+  padding: 100px;
+  margin: 100px;
+  border: 5px solid black;
+  font-size: 18px;
+  color: navy;
+  font-weight: 700;
+  line-height: 200%;
+  text-align: left;
+  font-family: 'Shadows Into Light', cursive;
+  background-color: goldenrod
+  ;
+}
